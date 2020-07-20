@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alain's Tech Blog
-name: Alain's Tech Blog
+title: Alexander the Great
+name: Alexander the Great
 description: 
-  This is a blog of someone passionate about technology who wants to share some of the things he knows
-  about Application Development, Integration, Cloud, Big Data and Digital Transformation
+  纵横万里只是开始，征服者的目标没有尽头
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  alainpham
+github_username:  AlbertRobot
 
 # jekyll-paginate configuration
 paginate: 10
@@ -37,7 +36,7 @@ exclude:
 include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
-author: http://www.linkedin.com/in/alainpham
+author: https://www.linkedin.com/in/xianghui-zhao-89ab3367/
 
 host: 0.0.0.0
 

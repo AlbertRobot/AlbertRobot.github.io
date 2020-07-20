@@ -7,27 +7,27 @@ disqus:
 google-ID: 'UA-91332049-1'
 
 menu: 
-  - name: Featured Projects
+  - name: 项目
     submenu:
       - name: MicroBam
         link: /projects/microbam
       - name: OurLegacy
         link: /projects/ourlegacy
-  - name: Posts
+  - name: 博文
     link: /
-  - name: Tags
+  - name: 标签
     link: /tags
-  - name: About
+  - name: 关于
     link: /about
-  - name: Follow me
+  - name: 关注我
     submenu:
       - name: GitHub
         icon: github
-        link: http://github.com/alainpham
+        link: http://github.com/AlbertRobot
       - name: LinkedIn
         icon: linkedin-square
-        link: http://www.linkedin.com/in/alainpham
-      - name: Twitter
+        link: https://www.linkedin.com/in/xianghui-zhao-89ab3367/
+      - name: Zhihu
         icon: twitter
-        link: https://twitter.com/koint
+        link: https://www.zhihu.com/people/zhaoxh1989
     
